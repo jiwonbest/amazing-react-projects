@@ -1,11 +1,11 @@
 # Amazing React Projects
 Collection of amazing open source React & React native projects
 
-<a href="https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.oz0g4c7mh"> <img src="background.png" width="800" alt="Mybridge Medium></a>
+<a href="https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.oz0g4c7mh"> <img src="background.png" width="800" alt="Mybridge Medium"></a>
 
 Originally published on <a href="https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.oz0g4c7mh"> Medium </a>.
 
-<a href="http://www.mybridge.co> Mybridge </a> picked the top 22 React and React Native apps out of nearly 800 open source projects.
+<a href="http://www.mybridge.co"> Mybridge </a> picked the top 22 React and React Native apps out of nearly 800 open source projects. The average number of Github stars from the 22 projects was 1,681. If you know another open source project that is great, feel free to contribute. Let's make sure only full-working apps are included here.
 
 
 #### React Native 
