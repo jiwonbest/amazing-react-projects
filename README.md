@@ -31,5 +31,6 @@ Originally published on <a href="https://medium.mybridge.co/22-amazing-open-sour
 * [A React & react-router-powered implementation of Hacker News using its Firebase API. ★505](https://github.com/insin/react-hn)
 * [A playground for in-browser interpreters. Built with React/Redux. ★509](https://github.com/fatiherikli/fil)
 * [Perseus is Khan Academy's new exercise question editor and renderer. ★591](https://github.com/khan/perseus)
+* [ReactSpeed.com, 30+ custom components, 3 SPAs for React Speed Coding book. ★468](https://github.com/manavsehgal/reactspeedcoding)
 * [React-based Imgur-like isomorphic demo app ★220](https://github.com/BinaryMuse/imgsible)
 * [Flatris:  Tetris app for Cosmos, built with React ★71](https://github.com/skidding/flatris)
