@@ -23,6 +23,7 @@ Originally published on <a href="https://medium.mybridge.co/22-amazing-open-sour
 
 #### React 
 * [A Soundcloud client built with React / Redux ★1335](https://github.com/andrewngu/sound-redux)
+* [Brainfock - Project and Team Management Solution](https://github.com/Brainfock/Brainfock)
 * [Calculator built with React Native (iOS & Android), Electorn (Desktop), React (Website) ★2796](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [React-color: Color Pickers from Sketch, Photoshop, Chrome & more ★1966](https://github.com/casesandberg/react-color)
 * [Gatsby: Transform plain text into dynamic blogs and websites using React.js ★2816](https://github.com/gatsbyjs/gatsby)
