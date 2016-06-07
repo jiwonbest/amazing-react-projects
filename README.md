@@ -7,6 +7,7 @@ Originally published on <a href="https://medium.mybridge.co/22-amazing-open-sour
 
 <a href="http://www.mybridge.co"> Mybridge </a> picked the top 22 React and React Native apps out of nearly 800 open source projects. The average number of Github stars from the 22 projects was 1,681. If you know another open source project that is great, feel free to contribute. Let's make sure only full-working apps are included here.
 
+If you're looking for <a href="https://github.com/jiwonbest/amazing-react-projects"> Amazing-Angular-Projects </a> follow this link.
 
 #### React Native 
 * [React native iOS and Android apps that give attendees a schedule for the F8 conference ★5780](https://github.com/fbsamples/f8app)
