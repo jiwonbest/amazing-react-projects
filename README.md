@@ -34,3 +34,4 @@ If you're looking for <a href="https://github.com/jiwonbest/amazing-angular-proj
 * [Perseus is Khan Academy's new exercise question editor and renderer. ★591](https://github.com/khan/perseus)
 * [React-based Imgur-like isomorphic demo app ★220](https://github.com/BinaryMuse/imgsible)
 * [Flatris:  Tetris app for Cosmos, built with React ★71](https://github.com/skidding/flatris)
+* [Tidings - A NLP based news app powered by API.ai](https://github.com/nitin42/Tidings)
