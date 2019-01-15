@@ -21,6 +21,7 @@ If you're looking for <a href="https://github.com/jiwonbest/amazing-angular-proj
 * [iOS and Android NBA App built with React Native ★586](https://github.com/wwayne/react-native-nba-app)
 * [React Native Reddit Reader ★220](https://github.com/akveo/react-native-reddit-reader)
 * [FB Basketball game clone built in React Native ★220](https://github.com/faridsafi/react-native-basketball)
+* [Lyrics King - a beautiful, open source lyrics search app built with Expo](https://github.com/SKempin/Lyrics-King-React-Native)
 
 #### React 
 * [A Soundcloud client built with React / Redux ★1335](https://github.com/andrewngu/sound-redux)
